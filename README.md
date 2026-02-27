@@ -134,7 +134,7 @@ public class HemanthKumarBommi {
       <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>⚙️ Architecture & Logic</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,maven&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -142,8 +142,8 @@ public class HemanthKumarBommi {
       <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Persistence & Cloud</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase,mysql,postgres&theme=dark" />
-      <img src="https://img.shields.io/badge/H2-005C84?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
+      <img src="https://img.shields.io/badge/H2_Database-005C84?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ public class HemanthKumarBommi {
       <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🌐 UI & Mobile</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -159,15 +159,7 @@ public class HemanthKumarBommi {
       <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🛠️ Workflow & IDEs</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux,docker&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Learning-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>📚 Unlocking Next</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes,redis,kafka&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
     </td>
   </tr>
 </table>
