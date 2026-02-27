@@ -40,40 +40,74 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-### 🧑‍💻 `whoami`
+### 🧑‍💻 whoami
+
+<details open>
+<summary><b>Engineering Blueprint</b></summary>
+
+<br>
 
 ```java
-public class HemanthKumarBommi {
+import java.util.List;
 
-    final String NAME    = "Hemanth Kumar Bommi";
-    final String COLLEGE = "SVNIT, Surat 🎓";
-    final String ROLE    = "Backend Developer";
-    final String EMAIL   = "bommihemanth18@gmail.com";
-    final String STATUS  = "🟠 Actively Building";
+/**
+ * Engineer Profile
+ * Backend Engineering | System Design | AI Integration (Exploring)
+ */
+public final class EngineerProfile {
 
-    String[] coreStack = {
-        "Java", "Spring Boot", "REST APIs",
-        "JPA/Hibernate", "MySQL", "PostgreSQL"
-    };
+    // Immutable Identity
+    private final String name =
+            "Hemanth Kumar Bommi";
 
-    String[] superpower = {
-        "System Design", "API Architecture",
-        "DSA Problem Solving", "Clean Code"
-    };
+    private final String college =
+            "Sardar Vallabhbhai National Institute of Technology, Surat";
 
-    String[] unlocking = {
-        "Spring Security + JWT 🔐",
-        "Microservices ⚙️",
-        "Docker + Cloud ☁️"
-    };
+    private final String role =
+            "Backend Engineer";
 
-    boolean openToWork        = true;
-    boolean lovesDSA          = true;
-    boolean coffeeDependent   = true; // ☕ obviously
+    private final String vision =
+            "Designing scalable, maintainable, and intelligent backend systems";
+
+    // Engineering Mindset
+    public void architectBackendSystem() {
+        applySolidPrinciples();      // SRP, OCP, LSP, ISP, DIP
+        designStatelessApis();       // Resource-oriented & Stateless
+        ensureScalability();         // Horizontal scaling readiness
+        prioritizeMaintainability(); // Clean Code & Documentation
+    }
+
+    public List<String> coreStrengths() {
+        return List.of(
+                "Java & Spring Boot",
+                "System Design",
+                "REST API Architecture",
+                "Database Modeling",
+                "Clean Architecture (SOLID)"
+        );
+    }
+
+    public List<String> problemsICareAbout() {
+        return List.of(
+                "High-throughput backend systems",
+                "Database performance optimization",
+                "Distributed service design",
+                "AI-enabled backend workflows"
+        );
+    }
+
+    // Internal Principles
+    private void applySolidPrinciples() {}
+    private void designStatelessApis() {}
+    private void ensureScalability() {}
+    private void prioritizeMaintainability() {}
 }
 ```
+</details>
+<br>
 
-> 🔥 *"Code it. Break it. Fix it. Ship it."*
+🚀 "Scalable systems. Clean architecture. Intelligent engineering."
+
 
 <br clear="right"/>
 
