@@ -125,34 +125,41 @@ public class HemanthKumarBommi {
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="180">
       <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>⚙️ Backend & Languages</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Databases</b>
+      <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Databases & Cloud</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,hibernate&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,hibernate&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🌐 Frontend Basics</b>
+      <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🌐 Frontend & Mobile</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI_ML-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🧠 Artificial Intelligence</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -174,8 +181,6 @@ public class HemanthKumarBommi {
 </table>
 
 </div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB STATS                             -->
