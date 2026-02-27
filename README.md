@@ -124,58 +124,54 @@ public class HemanthKumarBommi {
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>⚙️ Backend & Languages</b>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>⚙️ Architecture</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Databases & Cloud</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,hibernate&theme=dark" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-005847?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🌐 Frontend & Mobile</b>
+      <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Persistence</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI_ML-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🧠 Artificial Intelligence</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🛠️ Tools & DevOps</b>
+      <img src="https://img.shields.io/badge/AI_ML-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🧠 Intelligent Systems</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Learning-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>📚 Currently Unlocking</b>
+      <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🛠️ Infrastructure</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes,redis,kafka&theme=dark" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
 </table>
