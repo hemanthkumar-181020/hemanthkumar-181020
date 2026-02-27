@@ -203,23 +203,19 @@ public class HemanthKumarBommi {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hemanth-kumar-bommi-b31774307/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/bommihemanth_18/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="38"/>
+  <img src="https://img.shields.io/badge/LeetCode-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/bommihemanth18">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" height="38"/>
+  <img src="https://img.shields.io/badge/Codeforces-9D4EDD?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
 <a href="mailto:bommihemanth18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="38"/>
-</a>
-&nbsp;
-<a href="https://github.com/hemanthkumar-181020">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="38"/>
+  <img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 
 </div>
@@ -227,10 +223,14 @@ public class HemanthKumarBommi {
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="72%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&quote_color=9D4EDD&author_color=C77DFF&text_color=ffffff" width="80%" />
 </div>
 
 <br/>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hemanthkumar-181020&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square" alt="Views" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    FOOTER BANNER                          -->
