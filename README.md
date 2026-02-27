@@ -43,7 +43,10 @@
 ### 🧑‍💻 whoami
 
 <details open>
-<summary><b>Engineering Blueprint</b></summary>
+  <summary><b><kbd> VIEW_ENGINEERING_BLUEPRINT.sh </kbd></b></summary>
+  <br/>
+  
+  > [!IMPORTANT]
 
 <br>
 
