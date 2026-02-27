@@ -43,8 +43,12 @@
 ### 🧑‍💻 whoami
 
 <details open>
-  <summary><b><kbd> VIEW_ENGINEERING_BLUEPRINT.sh </kbd></b></summary>
-  <br/>
+  <summary style="list-style: none;">
+  <a href="#" style="display: inline-flex; align-items: center; justify-content: center; background-color: #9D4EDD; color: #ffffff; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600; text-decoration: none; padding: 12px 24px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); border: none; cursor: pointer; transition: background-color 0.2s, box-shadow: 0 6px 8px rgba(0, 0, 0, 0.4); text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
+    <span style="font-size: 24px; margin-right: 12px;">▶</span> VIEW_ENGINEERING_BLUEPRINT.sh
+  </a>
+</summary>
+<br/>
   
   > [!IMPORTANT]
 
