@@ -12,7 +12,7 @@
 
 <!-- ⌨️ Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F72C5B&center=true&vCenter=true&width=500&lines=System+Update:+Maximum+Overdrive;AI+Engineer+%7C+Full+Stack+Developer;Building+The+Future+of+Tech;Welcome+to+the+Mainframe." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Backend+Developer+%7C+Java+Expert;Spring+Boot+%7C+Microservices;Solving+DSA+at+SVNIT+Surat." alt="Typing SVG" />
 </a>
 <img src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake.svg?v=2" width="100%" alt="GitHub Snake"/>
 
