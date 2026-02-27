@@ -128,41 +128,28 @@ public class HemanthKumarBommi {
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>⚙️ Architecture & Logic</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🗄️ Persistence & Cloud</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
-      <img src="https://img.shields.io/badge/H2_Database-005C84?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🌐 UI & Mobile</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/><b>🛠️ Workflow & IDEs</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
+  <b>⚙️ Architecture & Logic</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
+  <b>🗄️ Persistence & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/H2_Database-005C84?style=flat-square&logo=sqlite&logoColor=white" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
+  <b>🌐 UI & Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
+  <b>🛠️ Workflow & IDEs</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
 
 </div>
 
