@@ -122,6 +122,41 @@ public final class EngineerProfile {
 
 
 
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                             -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/BACKEND-9D4EDD?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
+  <p><i>⚙️ Architecture & Logic</i></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/DATABASE-9D4EDD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
+  <p><i>🗄️ Persistence & Cloud</i></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/FRONTEND-9D4EDD?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
+  <p><i>🌐 UI & Mobile Development</i></p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/TOOLS-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
+  <p><i>🛠️ Workflow & IDEs</i></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
+
+</div>
+
+
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               COMPETITIVE PROGRAMMING                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -160,37 +195,6 @@ public final class EngineerProfile {
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/BACKEND-9D4EDD?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
-  <p><i>⚙️ Architecture & Logic</i></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/DATABASE-9D4EDD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
-  <p><i>🗄️ Persistence & Cloud</i></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/FRONTEND-9D4EDD?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
-  <p><i>🌐 UI & Mobile Development</i></p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/TOOLS-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
-  <p><i>🛠️ Workflow & IDEs</i></p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB STATS                             -->
