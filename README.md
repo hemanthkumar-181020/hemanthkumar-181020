@@ -29,6 +29,26 @@ Status   : 🟢 ONLINE — Building & Learning
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
 ## 🚀 Core Stack
 
 <div align="center">
@@ -81,14 +101,6 @@ Status   : 🟢 ONLINE — Building & Learning
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&theme=react-dark&hide_border=true&bg_color=0D1117&color=2C91F7&line=2C91F7&point=FFFFFF" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=algolia&no-frame=true&row=1&column=6" width="90%" />
 </div>
 
 ---
