@@ -1,144 +1,225 @@
-<!-- Header Banner -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      HEADER BANNER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=HEMANTH%20KUMAR%20BOMMI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20DEVELOPMENT%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20REST%20APIs&descAlignY=58&descSize=16&descColor=a0d8ef" alt="header" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a237e,100:0D47A1&height=250&section=header&text=Hemanth%20Kumar%20Bommi&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20⚡&descSize=18&descAlignY=62&descColor=8b949e" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Backend+Developer+%40+SVNIT+Surat;☕+Java+%7C+Spring+Boot+%7C+REST+API+Specialist;🗄️+Database+Design+%7C+JPA+%7C+Hibernate;🐳+Docker+%7C+JWT+Security+%7C+Microservices;🤝+Open+to+Collaborate+%26+Internships!" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Typing SVG -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL BADGES ROW                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C91F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Java+%7C+REST+APIs;SVNIT+Surat+Student+%F0%9F%8E%93;Building+Scalable+Systems+%F0%9F%94%A7;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumar-bommi-b31774307/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthkumar-181020)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommihemanth18@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hemanthkumar-181020&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/hemanthkumar-181020)
+
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🧠 About Me
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
-Name     : Hemanth Kumar Bommi
-Role     : Backend Developer
-College  : Sardar Vallabhbhai NIT, Surat
-Focus    : REST APIs • Spring Boot • Database Design
-Email    : bommihemanth18@gmail.com
-Status   : 🟢 ONLINE — Building & Learning
+### 👨‍💻 About Me
+
+```java
+public class HemanthKumarBommi {
+
+    String name     = "Hemanth Kumar Bommi";
+    String role     = "Backend Developer";
+    String college  = "SVNIT, Surat";
+    String email    = "bommihemanth18@gmail.com";
+
+    String[] stack  = {"Java", "Spring Boot",
+                       "REST APIs", "JPA/Hibernate",
+                       "MySQL", "PostgreSQL", "Docker"};
+
+    String[] learning = {"Spring Security (JWT)",
+                         "Microservices Architecture",
+                         "Docker + Cloud Deployment"};
+
+    String mission  = "Build scalable backend systems";
+    boolean openToWork = true; // 🟢 Available!
+}
 ```
 
-> *"Good architecture is the foundation of every great application."*
+> 💡 *"Good architecture is the foundation of every great application."*
+
+<br clear="right"/>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   SNAKE ANIMATION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Watch the Snake eat my Contributions!</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
-</div>
-
----
-
-## 🚀 Core Stack
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-### ⚙️ Backend & Languages
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,h2" />
-
-### 🌐 Frontend Basics
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-
-</div>
-
----
-
-## 📦 Currently Learning
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,docker" />
-</div>
-
-- 🔐 Spring Security (JWT Authentication)
-- 📄 Pagination & Sorting in JPA
-- 🐳 Docker + Cloud Production Deployment
-- 🧩 Microservices Architecture
-
----
-
-## 📊 Coding Analytics & Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-181020&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C91F7&icon_color=2C91F7" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-181020&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2C91F7" width="38%" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-181020&theme=react&hide_border=true&background=0D1117&stroke=2C91F7&ring=2C91F7&fire=FF4500&currStreakLabel=2C91F7" width="60%"/>
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&theme=react-dark&hide_border=true&bg_color=0D1117&color=2C91F7&line=2C91F7&point=FFFFFF" width="95%"/>
-</div>
-
----
-
-## 💼 Backend Focus Areas
-
-| Area | Details |
-|------|---------|
-| 🧠 API Design | RESTful API development with Spring Boot |
-| 🗄️ Database Modeling | H2, MySQL, PostgreSQL with JPA/Hibernate |
-| 🔐 Security | JWT Authentication & Spring Security |
-| 📦 Build Tools | Maven, Gradle |
-| 🐳 Containers | Docker fundamentals |
-| 📡 Testing | Postman, Unit Testing |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumar-bommi-b31774307/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanthkumar-181020)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bommihemanth18@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="180"><b>⚙️ Backend & Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,hibernate&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Frontend Basics</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools & DevOps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📚 Currently Learning</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes,redis,kafka&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🌟 Profile Views
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemanthkumar-181020&style=for-the-badge&color=2C91F7&label=PROFILE+VIEWS" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-181020&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-181020&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-181020&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 CONTRIBUTION GRAPH                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a237e&hide_border=true&custom_title=Hemanth's%20Contribution%20Activity" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TROPHIES                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               WHAT I'M WORKING ON                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔥 My Roadmap</h2>
+
+<div align="center">
+
+| 🚧 Building Now | 📚 Currently Learning | 🎯 2026 Goals |
+|:---|:---|:---|
+| Spring Boot REST APIs | Spring Security + JWT | 🏆 Land Backend Internship |
+| E-Commerce Backend | Microservices Architecture | 🔨 Build 3 Full Projects |
+| LeetCode DSA Practice | Docker + Cloud Deploy | 🧠 Master System Design |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤝 Let's Connect & Build Together!</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemanth-kumar-bommi-b31774307/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="mailto:bommihemanth18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://github.com/hemanthkumar-181020">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=CONNECT%20%E2%80%A2%20COLLABORATE%20%E2%80%A2%20CREATE%20THE%20FUTURE&descSize=14&descColor=a0d8ef&fontAlignY=45&descAlignY=68" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1a237e,100:0D1117&height=130&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=26&fontColor=58a6ff&animation=fadeIn&fontAlignY=45&desc=If+you+like+my+profile%2C+drop+a+⭐+on+my+repos!&descSize=14&descColor=8b949e&descAlignY=70" />
 </div>
