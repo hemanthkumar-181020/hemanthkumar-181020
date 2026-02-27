@@ -160,13 +160,17 @@ public class HemanthKumarBommi {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-181020&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=c9d1d9&ring_color=9D4EDD"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-181020&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-181020&show_icons=true&theme=transparent&title_color=9D4EDD&icon_color=C77DFF&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-181020&layout=compact&theme=transparent&title_color=9D4EDD&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8"/>
+  
+  <br/>
+
+  <img width="81%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-181020&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=ffffff&dates=8b949e&sideNums=C77DFF" />
 </div>
 
-<div align="center">
-  <img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-181020&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=c9d1d9&dates=8b949e&sideNums=C77DFF" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemanthkumar-181020&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square" alt="Views" />
+</p>
 
 ---
 
