@@ -132,20 +132,20 @@ public class HemanthKumarBommi {
   <b>⚙️ Architecture & Logic</b><br/>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
   
-  <br/><br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
   <b>🗄️ Persistence & Cloud</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/H2_Database-005C84?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />&nbsp;
+  <img height="48" src="https://img.shields.io/badge/H2_Database-005C84?style=for-the-badge&logo=databricks&logoColor=white" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
   <b>🌐 UI & Mobile</b><br/>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /><br/>
   <b>🛠️ Workflow & IDEs</b><br/>
