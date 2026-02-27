@@ -43,7 +43,9 @@
 ### 🧑‍💻 whoami
 
 <details open>
-<summary><b>　<img src="https://img.shields.io/badge/▶-VIEW_ENGINEERING_BLUEPRINT.sh-9D4EDD?style=for-the-badge&logoColor=white&labelColor=4B0082" />　</b></summary>
+<summary>
+  <img src="https://img.shields.io/badge/▶%20RUN-VIEW__ENGINEERING__BLUEPRINT.sh-9D4EDD?style=for-the-badge&labelColor=1a0a2e&logoColor=white" />
+</summary>
 
 <br>
 
