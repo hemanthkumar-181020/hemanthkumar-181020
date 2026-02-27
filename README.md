@@ -43,14 +43,18 @@
 ### 🧑‍💻 whoami
 
 <details>
-<summary><img src="https://img.shields.io/badge/▶%20RUN-VIEW__ENGINEERING__BLUEPRINT.sh-9D4EDD?style=for-the-badge&labelColor=1a0a2e&logoColor=white" /></summary>
+<summary>
 
-<br/>
+🚀 <b>RUN</b> <code>view_engineering_blueprint.sh</code>
 
-> [!IMPORTANT]
-> 🔍 Currently exploring **AI Integration** in backend workflows & open to exciting opportunities!
+</summary>
 
-<br/>
+<br>
+
+
+
+```java
+// your code here
 
 ```java
 import java.util.List;
@@ -60,56 +64,98 @@ import java.util.List;
  * Backend Engineering | System Design | AI Integration (Exploring)
  */
 public final class EngineerProfile {
-
     // Immutable Identity
-    private final String name   = "Hemanth Kumar Bommi";
-    private final String college = "Sardar Vallabhbhai National Institute of Technology, Surat";
-    private final String role   = "Backend Engineer";
-    private final String vision = "Designing scalable, maintainable, and intelligent backend systems";
+    private final String name =
+            "Hemanth Kumar Bommi";
+
+    private final String college =
+            "Sardar Vallabhbhai National Institute of Technology, Surat";
+
+    private final String role =
+            "Backend Engineer";
+
+    private final String vision =
+            "Designing scalable, maintainable, and intelligent backend systems";
 
     // Engineering Mindset
     public void architectBackendSystem() {
-        applySolidPrinciples();      // S.O.L.I.D foundation
-        designStatelessApis();       // REST best practices
-        ensureScalability();         // horizontal & vertical
-        prioritizeMaintainability(); // clean code always
+        applySolidPrinciples();     
+        designStatelessApis();       
+        ensureScalability();         
+        prioritizeMaintainability(); 
     }
 
     public List<String> coreStrengths() {
         return List.of(
-            "Java & Spring Boot",
-            "System Design",
-            "REST API Architecture",
-            "Database Modeling",
-            "Clean Architecture (SOLID)"
+                "Java & Spring Boot",
+                "System Design",
+                "REST API Architecture",
+                "Database Modeling",
+                "Clean Architecture (SOLID)"
         );
     }
 
     public List<String> problemsICareAbout() {
         return List.of(
-            "High-throughput backend systems",
-            "Database performance optimization",
-            "Distributed service design",
-            "AI-enabled backend workflows"
+                "High-throughput backend systems",
+                "Database performance optimization",
+                "Distributed service design",
+                "AI-enabled backend workflows"
         );
     }
-
+    
     private void applySolidPrinciples() {}
     private void designStatelessApis() {}
     private void ensureScalability() {}
     private void prioritizeMaintainability() {}
 }
 ```
-
 </details>
+<br>
 
-<br/>
+🚀 "Scalable systems. Clean architecture. Intelligent engineering."
 
-🚀 *"Scalable systems. Clean architecture. Intelligent engineering."*
 
 <br clear="right"/>
 
 ---
+
+
+
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                             -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/BACKEND-9D4EDD?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
+  <p><i>⚙️ Architecture & Logic</i></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/DATABASE-9D4EDD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
+  <p><i>🗄️ Persistence & Cloud</i></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/FRONTEND-9D4EDD?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
+  <p><i>🌐 UI & Mobile Development</i></p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/TOOLS-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
+  <p><i>🛠️ Workflow & IDEs</i></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
+
+</div>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               COMPETITIVE PROGRAMMING                     -->
@@ -151,41 +197,6 @@ public final class EngineerProfile {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/BACKEND-9D4EDD?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
-  <p><i>⚙️ Architecture & Logic</i></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/DATABASE-9D4EDD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
-  <p><i>🗄️ Persistence & Cloud</i></p>
-  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/FRONTEND-9D4EDD?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
-  <p><i>🌐 UI & Mobile Development</i></p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/TOOLS-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
-  <p><i>🛠️ Workflow & IDEs</i></p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -194,7 +205,7 @@ public final class EngineerProfile {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar-181020&show_icons=true&theme=transparent&title_color=9D4EDD&icon_color=C77DFF&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-181020&layout=compact&theme=transparent&title_color=9D4EDD&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8"/>
-
+  
   <br/>
 
   <img width="81%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-181020&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=ffffff&dates=8b949e&sideNums=C77DFF" />
@@ -217,6 +228,14 @@ public final class EngineerProfile {
 </div>
 
 ---
+
+
+---
+
+
+
+
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT WITH ME                          -->
@@ -252,7 +271,7 @@ public final class EngineerProfile {
 
 <br/>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hemanthkumar-181020&label=PROFILE+VIEWS&color=9D4EDD&style=flat-square" alt="Views" />
 </p>
 
