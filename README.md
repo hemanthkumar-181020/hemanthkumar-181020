@@ -45,11 +45,12 @@
 <details open>
 <summary>
 
-<img src="https://img.shields.io/badge/RUN-View_Engineering_Blueprint-9D4EDD?style=for-the-badge&labelColor=1a0a2e" />
+🚀 <b>RUN</b> <code>view_engineering_blueprint.sh</code>
 
 </summary>
 
 <br>
+
 
 ```java
 // your code here
