@@ -10,11 +10,14 @@
 <!--                   TYPING ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=C77DFF&center=true&vCenter=true&width=700&height=55&lines=☕+Java+%7C+Spring+Boot+%7C+REST+API+Developer;🗄️+JPA+%7C+Hibernate+%7C+MySQL+%7C+PostgreSQL;🏆+LeetCode+Solver+%7C+Codeforces+Coder;🐳+Docker+%7C+Spring+Security+%7C+JWT;🎓+B.Tech+Student+%40+SVNIT+Surat;🚀+Building+Scalable+Backend+Systems!" alt="Typing SVG" />
-</div>
+<!-- ⌨️ Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F72C5B&center=true&vCenter=true&width=500&lines=System+Update:+Maximum+Overdrive;AI+Engineer+%7C+Full+Stack+Developer;Building+The+Future+of+Tech;Welcome+to+the+Mainframe." alt="Typing SVG" />
+</a>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Snake"/>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   SOCIAL BADGES                           -->
