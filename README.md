@@ -181,8 +181,12 @@ public class HemanthKumarBommi {
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&bg_color=0D1117&color=C77DFF&line=C77DFF&point=ffffff&area=true&area_color=1a0a2e&hide_border=true&custom_title=Hemanth's%20Contribution%20Activity%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=C77DFF&area=true&area_color=0D1117&hide_border=true&font_color=ffffff&custom_title=Activity%20Pulse" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
