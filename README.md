@@ -1,22 +1,20 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                     HEADER BANNER                          -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1a0a2e,100:9D4EDD&height=260&section=header&text=HEMANTH%20KUMAR%20BOMMI&fontSize=52&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=✨%20Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20DSA%20Enthusiast%20✨&descSize=17&descAlignY=63&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1a0a2e,100:9D4EDD&height=260&section=header&text=HEMANTH%20KUMAR%20BOMMI&fontSize=52&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=✨%20Backend%20Engineer%20%7C%20Java%20•%20Spring%20Boot%20•%20System%20Design%20✨&descSize=18&descAlignY=63&descColor=ffffff" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<!-- ⌨️ Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);Backend+Developer+%7C+Java+Expert;Spring+Boot+%7C+Microservices;Solving+DSA+at+SVNIT+Surat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+•+Spring+Boot;Microservices+•+REST+APIs+•+System+Design;Building+Scalable+Systems;Exploring+AI+Integration;" alt="Typing SVG" />
 </a>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake"/>
 
 </div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   SOCIAL BADGES                           -->
