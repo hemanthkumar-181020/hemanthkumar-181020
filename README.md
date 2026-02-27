@@ -44,7 +44,7 @@ Status   : 🟢 ONLINE — Building & Learning
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </div>
 
 ---
