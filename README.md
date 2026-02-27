@@ -44,7 +44,7 @@
 
 <details open>
 <summary style="list-style: none; cursor: pointer;">
-  <img src="https://img.shields.io/badge/▶%20RUN-VIEW__ENGINEERING__BLUEPRINT.sh-9D4EDD?style=for-the-badge&labelColor=1a0a2e&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20RUN-VIEW__ENGINEERING__BLUEPRINT.sh-9D4EDD?style=for-the-badge&labelColor=1a0a2e&logoColor=white" />
 </summary>
 
 <br>
