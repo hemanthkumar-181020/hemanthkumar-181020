@@ -45,7 +45,7 @@
 <details open>
 <summary>
 
-🚀 <b>RUN</b> <code>view_engineering_blueprint.sh</code>
+ <b>RUN</b> <code>view_engineering_blueprint.sh</code>
 
 </summary>
 
