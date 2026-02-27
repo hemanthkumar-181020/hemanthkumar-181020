@@ -55,7 +55,6 @@ import java.util.List;
  * Backend Engineering | System Design | AI Integration (Exploring)
  */
 public final class EngineerProfile {
-
     // Immutable Identity
     private final String name =
             "Hemanth Kumar Bommi";
@@ -71,10 +70,10 @@ public final class EngineerProfile {
 
     // Engineering Mindset
     public void architectBackendSystem() {
-        applySolidPrinciples();      // SRP, OCP, LSP, ISP, DIP
-        designStatelessApis();       // Resource-oriented & Stateless
-        ensureScalability();         // Horizontal scaling readiness
-        prioritizeMaintainability(); // Clean Code & Documentation
+        applySolidPrinciples();     
+        designStatelessApis();       
+        ensureScalability();         
+        prioritizeMaintainability(); 
     }
 
     public List<String> coreStrengths() {
@@ -95,8 +94,7 @@ public final class EngineerProfile {
                 "AI-enabled backend workflows"
         );
     }
-
-    // Internal Principles
+    
     private void applySolidPrinciples() {}
     private void designStatelessApis() {}
     private void ensureScalability() {}
