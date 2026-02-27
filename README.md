@@ -45,7 +45,7 @@
 <details open>
 <summary>
 
-<img src="https://img.shields.io/badge/RUN-view_engineering_blueprint.sh-9D4EDD?style=for-the-badge&labelColor=1a0a2e" />
+🚀 <b>RUN</b> view_engineering_blueprint.sh
 
 </summary>
 
