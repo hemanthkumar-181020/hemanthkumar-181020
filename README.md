@@ -181,45 +181,18 @@ public class HemanthKumarBommi {
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=C77DFF&area=true&area_color=0D1117&hide_border=true&font_color=ffffff&custom_title=Activity%20Pulse" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hemanthkumar-181020/hemanthkumar-181020/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumar-181020&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&column=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthkumar-181020&bg_color=0D1117&color=C77DFF&line=C77DFF&point=ffffff&area=true&area_color=1a0a2e&hide_border=true&custom_title=Hemanth's%20Contribution%20Activity%20Graph" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ROADMAP                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🗺️ My 2026 Roadmap</h2>
-
-<div align="center">
-
-| 🚧 Currently Building | 📚 Learning Next | 🎯 2026 Goals |
-|:---|:---|:---|
-| ⚡ Spring Boot REST APIs | 🔐 Spring Security + JWT | 🏆 Land Backend Internship |
-| 🛒 E-Commerce Backend | ⚙️ Microservices | 🔨 5 Full-Stack Projects |
-| 🧠 LeetCode Daily DSA | ☁️ Docker + Cloud Deploy | 💡 Master System Design |
-| 🔧 Spring IoC / DI | 📦 Redis Caching | 🌟 100+ LeetCode Solved |
-
-</div>
 
 ---
+
+
+
+
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT WITH ME                          -->
