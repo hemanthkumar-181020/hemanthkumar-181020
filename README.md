@@ -128,22 +128,27 @@ public class HemanthKumarBommi {
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge&labelColor=0D1117" /> &nbsp; <b>(⚙️ Architecture & Logic)</b><br/>
+  <img src="https://img.shields.io/badge/BACKEND-9D4EDD?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
+  <p><i>⚙️ Architecture & Logic</i></p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
-  
-  <br/>
 
-  <img src="https://img.shields.io/badge/Database-9D4EDD?style=for-the-badge&labelColor=0D1117" /> &nbsp; <b>(🗄️ Persistence & Cloud)</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />&nbsp;<img height="50" src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" />
+  <br/><br/>
 
-  <br/>
+  <img src="https://img.shields.io/badge/DATABASE-9D4EDD?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
+  <p><i>🗄️ Persistence & Cloud</i></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,hibernate,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/H2-005C84?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
 
-  <img src="https://img.shields.io/badge/Frontend-9D4EDD?style=for-the-badge&labelColor=0D1117" /> &nbsp; <b>(🌐 UI & Mobile)</b><br/>
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/FRONTEND-9D4EDD?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
+  <p><i>🌐 UI & Mobile Development</i></p>
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/Tools-9D4EDD?style=for-the-badge&labelColor=0D1117" /> &nbsp; <b>(🛠️ Workflow & IDEs)</b><br/>
+  <img src="https://img.shields.io/badge/TOOLS-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
+  <p><i>🛠️ Workflow & IDEs</i></p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
 
 </div>
